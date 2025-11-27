@@ -31,11 +31,11 @@ Simply append ?prompt= followed by your text to the Gemini URL.
 
 **Example:**
 
-[https://gemini.google.com/app?prompt=Write a poem about coding](https://gemini.google.com/app?prompt=Write a poem about coding) 
+[https://gemini.google.com/app?prompt=Write a poem about coding](https://gemini.google.com/app?prompt=Write%20a%20poem%20about%20coding)
 
 **Alternative parameter:**
 
-[https://gemini.google.com/app?q=Explain](https://gemini.google.com/app?q=Explain) quantum computing
+[https://gemini.google.com/app?q=Explain quantum computing](https://gemini.google.com/app?q=Explain%20quantum%20computing)
 
 ### **Integration Examples**
 
